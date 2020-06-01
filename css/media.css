@@ -36,8 +36,8 @@
 
 @media all and (max-width:1280px){
 
-	.contain{width:100%;padding:0 2%;}
-	
+	/* .contain{width:100%;padding:0 2%;} */
+	.contain{width:100%;}
 	.Hnav>li{padding:0 .2rem;}
 	
 	.mainItem-ctry.mIctry-CN .mItemCtry-CN{float:none;margin:0 auto;}
